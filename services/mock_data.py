@@ -1,0 +1,81 @@
+"""Mock menu catalog data for the burger joint."""
+
+MENU_ITEMS = [
+    {
+        "id": "burger-001",
+        "name": "Classic Burger",
+        "description": "Juicy beef patty with lettuce, tomato, onion, and special sauce",
+        "price": 8.99,
+        "category": "burger",
+    },
+    {
+        "id": "burger-002",
+        "name": "Cheeseburger",
+        "description": "Classic burger with melted cheese",
+        "price": 9.99,
+        "category": "burger",
+    },
+    {
+        "id": "burger-003",
+        "name": "Bacon Burger",
+        "description": "Classic burger with crispy bacon",
+        "price": 10.99,
+        "category": "burger",
+    },
+    {
+        "id": "burger-004",
+        "name": "Double Burger",
+        "description": "Two beef patties with all the fixings",
+        "price": 12.99,
+        "category": "burger",
+    },
+    {
+        "id": "side-001",
+        "name": "French Fries",
+        "description": "Crispy golden fries",
+        "price": 3.99,
+        "category": "side",
+    },
+    {
+        "id": "side-002",
+        "name": "Onion Rings",
+        "description": "Crispy battered onion rings",
+        "price": 4.99,
+        "category": "side",
+    },
+    {
+        "id": "side-003",
+        "name": "Sweet Potato Fries",
+        "description": "Crispy sweet potato fries",
+        "price": 4.99,
+        "category": "side",
+    },
+    {
+        "id": "drink-001",
+        "name": "Coca Cola",
+        "description": "Classic cola",
+        "price": 2.99,
+        "category": "drink",
+    },
+    {
+        "id": "drink-002",
+        "name": "Sprite",
+        "description": "Lemon-lime soda",
+        "price": 2.99,
+        "category": "drink",
+    },
+    {
+        "id": "drink-003",
+        "name": "Iced Tea",
+        "description": "Refreshing iced tea",
+        "price": 2.99,
+        "category": "drink",
+    },
+    {
+        "id": "drink-004",
+        "name": "Lemonade",
+        "description": "Fresh squeezed lemonade",
+        "price": 3.49,
+        "category": "drink",
+    },
+]
